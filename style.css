@@ -1,4 +1,4 @@
 body {
-  background: no-repeat url("/maxresdefault.jpg");
+  background: no-repeat url("./maxresdefault.jpg");
   background-size: cover;
 }

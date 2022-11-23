@@ -1,0 +1,15 @@
+body {
+  background: url(maxresdefault.jpg) no-repeat 60px 20px; /* Параметры фона */
+  background: url(maxresdefault.jpg) no-repeat;
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+}
+
+@media (max-width: 700px) {
+  body {
+    text-align: center;
+    display: block;
+  }
+}
